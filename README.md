@@ -27,3 +27,9 @@ boost版本
 msvc版本
 ![image](https://github.com/elena1205/elena1205.github.io/assets/29435898/d24849b3-601b-4d5a-bf90-d5f825e6541d)
 
+3、打开wow.exe无法登录
+wiki中有描述到修改realmlist.swf，但是没有说明realmlist.swf是客户端自带的还是生成的，知乎文档中也没有提及，按照wiki所有步骤执行完成后，没有找到realmlist.swf文件，直接运行wow.exe一直提示connect最后连接失败，最后手动创建了一个realmlist.swf；
+
+
+
+
